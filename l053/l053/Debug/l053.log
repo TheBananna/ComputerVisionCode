@@ -1,0 +1,44 @@
+﻿  l053.cpp
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(79,56): warning C4244: 'return': conversion from 'uint64_t' to 'size_t', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(178,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(180,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(197,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(214,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(216,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(245,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(246,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(250,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(251,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(337,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(338,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(339,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(340,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(342,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(351,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(505,62): warning C4244: 'return': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(528,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(548,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(696,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(722,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(728,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(734,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(753,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(761,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(810,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(853,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(865,30): warning C4244: '=': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(872,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(874,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(954,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(966,30): warning C4244: '=': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(973,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(975,30): warning C4018: '<': signed/unsigned mismatch
+  l053.vcxproj -> C:\Users\nickm\source\repos\l053\Debug\l053.exe

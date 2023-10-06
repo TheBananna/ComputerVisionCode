@@ -1,0 +1,6 @@
+301 Dollar
+66 Quarter
+16 Nickel
+0 Penny
+0 Dime
+Total Amount: $318.30

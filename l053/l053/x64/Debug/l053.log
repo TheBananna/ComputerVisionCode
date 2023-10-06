@@ -1,0 +1,38 @@
+﻿  l053.cpp
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(246,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(247,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(251,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(252,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(338,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(339,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(340,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(341,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(351,19): warning C4244: 'initializing': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(352,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(354,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(355,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(356,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(357,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(359,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(360,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(361,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(362,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(701,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(702,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(703,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(755,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(816,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(817,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(818,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(856,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(868,30): warning C4244: '=': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(982,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(983,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(984,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(1028,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l053\l053\l053.cpp(1098,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  l053.vcxproj -> C:\Users\nickm\source\repos\l053\x64\Debug\l053.exe
