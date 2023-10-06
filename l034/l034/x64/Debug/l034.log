@@ -1,0 +1,67 @@
+﻿  l034.cpp
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(234,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(235,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(239,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(240,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(322,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(323,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(324,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(325,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(335,19): warning C4244: 'initializing': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(336,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(338,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(339,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(340,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(341,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(343,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(344,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(345,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(346,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(620,36): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(629,70): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(644,70): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(723,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(749,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(805,73): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(884,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(909,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(931,61): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(953,97): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(958,21): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(959,21): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(1013,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=uint64_t
+          ]
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(953): message : see reference to function template instantiation 'std::pair<uint64_t,uint64_t>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+C:\Users\nickm\source\repos\l034\l034\l034.cpp(953): message : see reference to function template instantiation 'std::pair<uint64_t,uint64_t>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=uint64_t
+          ]
+  l034.vcxproj -> C:\Users\nickm\source\repos\l034\x64\Debug\l034.exe

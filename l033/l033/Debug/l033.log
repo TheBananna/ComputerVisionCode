@@ -1,0 +1,17 @@
+﻿  l033.cpp
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(221,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(222,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(226,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(227,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(309,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(310,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(311,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(312,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(314,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(323,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(471,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(601,36): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(666,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(669,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l033\l033\l033.cpp(902,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  l033.vcxproj -> C:\Users\nickm\source\repos\l033\Debug\l033.exe

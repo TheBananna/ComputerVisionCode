@@ -1,0 +1,5 @@
+﻿  lo2.cpp
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(77,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(85,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lo2.vcxproj -> C:\Users\nickm\source\repos\lo2\Debug\lo2.exe

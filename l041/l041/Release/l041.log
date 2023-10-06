@@ -1,0 +1,22 @@
+﻿  l041.cpp
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(72,56): warning C4244: 'return': conversion from 'uint64_t' to 'size_t', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(203,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(204,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(208,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(209,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(291,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(292,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(293,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(294,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(296,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(305,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(463,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(480,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(509,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(518,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l041\l041\l041.cpp(528,26): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 385 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  l041.vcxproj -> C:\Users\nickm\source\repos\l041\Release\l041.exe

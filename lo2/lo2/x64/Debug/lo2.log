@@ -1,0 +1,20 @@
+﻿  lo2.cpp
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(134,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(135,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(139,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(140,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(223,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(232,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(233,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(234,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(235,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(236,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(238,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(239,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(240,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(241,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(270,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(271,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(298,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\lo2\lo2\lo2.cpp(298,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lo2.vcxproj -> C:\Users\nickm\source\repos\lo2\x64\Debug\lo2.exe

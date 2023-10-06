@@ -1,0 +1,10 @@
+﻿  l022.cpp
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(135,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(136,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(140,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(141,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(224,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(226,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(256,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(317,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  l022.vcxproj -> C:\Users\nickm\source\repos\l022\Debug\l022.exe

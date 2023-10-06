@@ -1,0 +1,15 @@
+﻿  l042.cpp
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(74,56): warning C4244: 'return': conversion from 'uint64_t' to 'size_t', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(206,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(207,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(211,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(212,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(294,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(295,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(296,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(297,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(299,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(308,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(485,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l042\l042\l042.cpp(505,23): warning C4018: '<': signed/unsigned mismatch
+  l042.vcxproj -> C:\Users\nickm\source\repos\l042\Debug\l042.exe

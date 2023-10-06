@@ -1,0 +1,10 @@
+﻿  l031.cpp
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(163,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(164,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(168,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(169,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(252,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(254,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(284,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l031\l031\l031.cpp(293,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  l031.vcxproj -> C:\Users\nickm\source\repos\l031\Debug\l031.exe

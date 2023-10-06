@@ -1,0 +1,19 @@
+﻿  l022.cpp
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(153,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(154,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(158,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(159,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(242,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(251,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(252,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(253,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(254,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(255,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(257,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(258,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(259,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(260,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(274,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(283,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nickm\source\repos\l022\l022\l022.cpp(617,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  l022.vcxproj -> C:\Users\nickm\source\repos\l022\x64\Debug\l022.exe
